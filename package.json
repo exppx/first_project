@@ -1,0 +1,26 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "learning to setup sass, webpack, eslint, prettier and husky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exppx/first_project.git"
+  },
+  "keywords": [
+    "sass",
+    "webpack",
+    "eslint",
+    "prettier",
+    "husky"
+  ],
+  "author": "Gleb Morin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exppx/first_project/issues"
+  },
+  "homepage": "https://github.com/exppx/first_project#readme"
+}
