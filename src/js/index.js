@@ -1,1 +1,3 @@
-import "../sass/style.scss";
+import '../sass/style.scss';
+
+console.log('It works!');
